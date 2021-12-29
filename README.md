@@ -1,8 +1,9 @@
 # UcodeQrTelebot
 
- 
-![6vvkgLfeR3o](https://user-images.githubusercontent.com/77910713/147297692-15cc49a8-d014-4423-a329-cd410bf9e403.png)
 
+![147297692-15cc49a8-d014-4423-a329-cd410bf9e403](https://user-images.githubusercontent.com/77910713/147619799-7f17dc81-f44a-4cdf-a795-df051d2e133e.png)
+
+ 
 
 Easy way to get QR and U-code using Utopia API in telegram bot
 -----
